@@ -2,6 +2,8 @@
 .venv
 asd
 .DS_Store
+run.sh
+run2.sh
 
 */*.log
 */*.pot
